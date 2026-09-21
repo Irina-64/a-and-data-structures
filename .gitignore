@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LLM
+.build_series
+.claude
+.codex-docx-work
+.codex-finalizer
+.codex=pptx-work
+.codex
+.11
